@@ -24,7 +24,7 @@ To this:
 
 ### Part 2: Slicing and OCR
 
-Once you have the flattened image, you can split it evenly in to N segments. Since the slide puzzle I am using was a 6x6 puzzle, the image was segmented into 36 tiles all the same size. The segmenting looks something like this:
+Once you have the flattened image, you can split it evenly however many times you need (i.e. the number of files on each side). Since the slide puzzle I am using was a 6x6 puzzle, the image was segmented 6 times vertically, and 6 times horizontally. This yielded 36 tiles, all the same size. The segmenting looks something like this:
 
 ![Slices](assets/split_lines.png)
 
