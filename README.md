@@ -55,3 +55,8 @@ One of the other pitfalls was more regarding the scope of the project. I initial
 ## Conclusion
 
 Overall I am very happy with how this project turned out. If I had more time I would love to continue working with the OCR engine and potentially also work on getting the automatic corner detection working. I also would love to implement some sort of graph-search algorithm in order to take the state that this program would ideally yield and find a path to solve the puzzle.
+
+## Requirements
+
+- OpenCV
+- PyTesseract
